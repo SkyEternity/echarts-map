@@ -1,0 +1,308 @@
+[
+	{
+		"name": "台湾",
+		"value": 0,
+		"start": 1,
+		"end": 1,
+		"label": "台湾",
+		"pinyin": "taiwan",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "河北",
+		"value": 1,
+		"start": 2,
+		"end": 2,
+		"label": "河北",
+		"pinyin": "hebei",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "山西",
+		"value": 2,
+		"start": 3,
+		"end": 3,
+		"label": "山西",
+		"pinyin": "shanxi",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "辽宁",
+		"value": 3,
+		"start": 4,
+		"end": 4,
+		"label": "辽宁",
+		"pinyin": "liaoning",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "吉林",
+		"value": 4,
+		"start": 5,
+		"end": 5,
+		"label": "吉林",
+		"pinyin": "jilin",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "黑龙江",
+		"value": 5,
+		"start": 6,
+		"end": 6,
+		"label": "黑龙江",
+		"pinyin": "heilongjiang",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "江苏",
+		"value": 6,
+		"start": 7,
+		"end": 7,
+		"label": "江苏",
+		"pinyin": "jiangsu",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "浙江",
+		"value": 7,
+		"start": 8,
+		"end": 8,
+		"label": "浙江",
+		"pinyin": "zhejiang",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "安徽",
+		"value": 8,
+		"start": 9,
+		"end": 9,
+		"label": "安徽",
+		"pinyin": "anhui",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "福建",
+		"value": 9,
+		"start": 10,
+		"end": 10,
+		"label": "福建",
+		"pinyin": "fujian",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "江西",
+		"value": 10,
+		"start": 11,
+		"end": 11,
+		"label": "江西",
+		"pinyin": "jiangxi",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "山东",
+		"value": 11,
+		"start": 12,
+		"end": 12,
+		"label": "山东",
+		"pinyin": "shandong",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "河南",
+		"value": 12,
+		"start": 13,
+		"end": 13,
+		"label": "河南",
+		"pinyin": "henan",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "湖北",
+		"value": 13,
+		"start": 14,
+		"end": 14,
+		"label": "湖北",
+		"pinyin": "hubei",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "湖南",
+		"value": 14,
+		"start": 15,
+		"end": 15,
+		"label": "湖南",
+		"pinyin": "hunan",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "广东",
+		"value": 15,
+		"start": 16,
+		"end": 16,
+		"label": "广东",
+		"pinyin": "guangdong",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "海南",
+		"value": 16,
+		"start": 17,
+		"end": 17,
+		"label": "海南",
+		"pinyin": "hainan",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "四川",
+		"value": 17,
+		"start": 18,
+		"end": 18,
+		"label": "四川",
+		"pinyin": "sichuan",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "贵州",
+		"value": 18,
+		"start": 19,
+		"end": 19,
+		"label": "贵州",
+		"pinyin": "guizhou",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "云南",
+		"value": 19,
+		"start": 20,
+		"end": 20,
+		"label": "云南",
+		"pinyin": "yunnan",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "陕西",
+		"value": 20,
+		"start": 21,
+		"end": 21,
+		"label": "陕西",
+		"pinyin": "shanxi1",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "甘肃",
+		"value": 21,
+		"start": 22,
+		"end": 22,
+		"label": "甘肃",
+		"pinyin": "gansu",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "青海",
+		"value": 22,
+		"start": 23,
+		"end": 23,
+		"label": "青海",
+		"pinyin": "qinghai",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "新疆",
+		"value": 23,
+		"start": 24,
+		"end": 24,
+		"label": "新疆",
+		"pinyin": "xinjiang",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "广西",
+		"value": 24,
+		"start": 25,
+		"end": 25,
+		"label": "广西",
+		"pinyin": "guangxi",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "内蒙古",
+		"value": 25,
+		"start": 26,
+		"end": 26,
+		"label": "内蒙古",
+		"pinyin": "neimenggu",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "宁夏",
+		"value": 26,
+		"start": 27,
+		"end": 27,
+		"label": "宁夏",
+		"pinyin": "ningxia",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "西藏",
+		"value": 27,
+		"start": 28,
+		"end": 28,
+		"label": "西藏",
+		"pinyin": "xizang",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "北京",
+		"value": 28,
+		"start": 29,
+		"end": 29,
+		"label": "北京",
+		"pinyin": "beijing",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "天津",
+		"value": 29,
+		"start": 30,
+		"end": 30,
+		"label": "天津",
+		"pinyin": "tianjing",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "上海",
+		"value": 30,
+		"start": 31,
+		"end": 31,
+		"label": "上海",
+		"pinyin": "shanghai",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "重庆",
+		"value": 31,
+		"start": 32,
+		"end": 32,
+		"label": "重庆",
+		"pinyin": "chongqing",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "香港",
+		"value": 32,
+		"start": 33,
+		"end": 33,
+		"label": "香港",
+		"pinyin": "xianggang",
+		"color": "#2C2E38"
+	},
+	{
+		"name": "澳门",
+		"value": 33,
+		"start": 34,
+		"end": 34,
+		"label": "澳门",
+		"pinyin": "aomen",
+		"color": "#2C2E38"
+	}
+]

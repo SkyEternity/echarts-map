@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>基于Echarts的HTML5 Canvas中国地图DEMO演示</title>
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+
+</head>
+<style>
+	#container {
+		width: 120%;
+		height: 800px;
+		position: absolute;
+		/* left: calc(50% - 500px); */
+		top: 100px;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+
+	* {
+		padding: 0;
+		margin: 0;
+	}
+
+	.box {
+		position: relative;
+
+
+	}
+
+	img {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		display: block;
+	}
+</style>
+
+<body>
+	<div class="box">
+		<img src="./bg.png" alt="">
+		<div id="container"></div>
+	</div>
+	<script src="./js/jquery-1.11.1.min.js"></script>
+	<script src="./js/echarts.min.js"></script>
+	<script src="./js/map/china.js"></script>
+	<script src="./index_c.js"></script>
+
+</body>
+
+</html>
